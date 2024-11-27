@@ -1,1 +1,0 @@
-This is just an excercise to help me remember key commands for git and github.
